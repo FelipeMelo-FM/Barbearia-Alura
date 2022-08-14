@@ -76,6 +76,7 @@ nav a {
 
 .products li:active h2 {
     color: DarkOrange;
+
 }
 
 .service {
@@ -95,4 +96,17 @@ nav a {
     font-weight: bold;
     font-size: 25px;
     margin-top: 20px;
+}
+
+footer {
+    text-align: center;
+    background-color: LightGrey;
+    margin-top: 80px;
+    padding-bottom: 20px;
+}
+
+.baseboard {
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
 }
