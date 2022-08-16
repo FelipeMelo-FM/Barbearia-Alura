@@ -110,3 +110,8 @@ footer {
     font-size: 14px;
     font-weight: bold;
 }
+
+.contact-background {
+    background-color: white;
+    /* color: aliceblue; */
+}
